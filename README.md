@@ -170,7 +170,7 @@ What can you expect to see here?
 * [uReplicator](https://github.com/uber/uReplicator)
 * [MirrorTool for Kafka Connect](https://github.com/Comcast/MirrorTool-for-Kafka-Connect)
 * [Mirus](https://github.com/salesforce/mirus)
-* [K2K](https://docs.lenses.io/latest/k2k)
+* [K2K](https://docs.lenses.io/latest/k2k) - Kafka to Kafka replication by Lenses.io
 
 ### Backup
 * [Backup and Restore topics & offsets](https://github.com/itadventurer/kafka-backup)
