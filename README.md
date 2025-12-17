@@ -222,7 +222,6 @@ What can you expect to see here?
 * [Kowl](https://github.com/cloudhut/kowl)
 * [Kafka Streams Topology Sketch Diagram Visualization](https://github.com/zz85/kafka-streams-viz)
 * [Web based GUI](https://github.com/provectus/kafka-ui)
-* [Lenses](https://docs.lenses.io/latest)
 
 ## Deployment
 
